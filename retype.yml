@@ -1,0 +1,15 @@
+input: .
+output: ./site
+
+url: https://support.nemex-arms.pl
+
+branding:
+  title: NEMEX Support
+  label: Wiki & Chat Support
+
+footer:
+  copyright: "© 2025 NEMEX"
+
+meta:
+  title: "NEMEX-ARMS – Centrum Pomocy"
+  description: "Oficjalna dokumentacja i wsparcie sklepu NEMEX-ARMS z akcesoriami ASG."
